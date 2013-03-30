@@ -1,0 +1,9 @@
+admins:
+    - 76561198123456789
+    - 76561198123456789
+apikey: yourkey
+bots:
+    - username: bot1
+      password: password
+      id: 1
+      displayname: Buyah
